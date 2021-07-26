@@ -1,3 +1,5 @@
+https://fokkdatshit.github.io/video_lesson-portfolio/
+
 Данный веб-сайт был свёрстан по видеоурокам.
 
 От себя было сделано следующее:
